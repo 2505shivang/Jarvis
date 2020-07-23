@@ -1,2 +1,2 @@
 # Jarvis 
-Pioneer AI Assistant. 
+A Python based Pioneer AI Assistant.
